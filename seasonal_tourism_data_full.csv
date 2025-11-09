@@ -1,0 +1,1045 @@
+Month,State,Place,AvgVisitors,AvgStayDays,AvgCostPerDay,TravelCostPerPerson
+January,Andhra Pradesh,Tirupati,50906,4,3154,5695
+January,Andhra Pradesh,Visakhapatnam Beach,21467,2,3369,4692
+January,Andhra Pradesh,Araku Valley,68319,3,3554,5444
+January,Arunachal Pradesh,Tawang,26201,5,3605,6770
+January,Arunachal Pradesh,Ziro Valley,44794,6,3352,6471
+January,Arunachal Pradesh,Itanagar,41353,6,3157,6385
+January,Assam,Kaziranga,34853,6,2998,5922
+January,Assam,Guwahati,39151,5,3475,6478
+January,Assam,Majuli,68730,4,2772,4132
+January,Bihar,Bodh Gaya,27608,3,2956,6776
+January,Bihar,Patna,51132,5,2514,4309
+January,Bihar,Nalanda,55027,4,3734,4561
+January,Chhattisgarh,Chitrakote Falls,58218,2,3879,5074
+January,Chhattisgarh,Raipur,39520,4,2533,4285
+January,Chhattisgarh,Barnawapara Sanctuary,16949,6,2835,6106
+January,Goa,Baga Beach,42840,3,2580,5897
+January,Goa,Calangute,55866,3,2976,6138
+January,Goa,Fort Aguada,42979,4,2943,6756
+January,Gujarat,Gir National Park,66583,6,2770,4909
+January,Gujarat,Ahmedabad,67717,3,3047,6645
+January,Gujarat,Dwarka,26544,5,3734,6019
+January,Haryana,Kurukshetra,43576,2,3911,6113
+January,Haryana,Panipat,37574,5,3177,6717
+January,Haryana,Sultanpur Bird Sanctuary,46615,3,2824,4810
+January,Himachal Pradesh,Manali,38644,4,2839,5656
+January,Himachal Pradesh,Shimla,22329,5,2623,4842
+January,Himachal Pradesh,Kullu,47217,6,3507,4071
+January,Jharkhand,Ranchi,26161,4,2671,6041
+January,Jharkhand,Deoghar,54097,3,3739,6264
+January,Jharkhand,Betla National Park,40502,6,3598,6749
+January,Karnataka,Coorg,38057,5,3813,6670
+January,Karnataka,Mysuru,48750,5,3846,6119
+January,Karnataka,Bengaluru,51311,6,3547,4494
+January,Kerala,Munnar,66559,2,3208,5924
+January,Kerala,Alleppey,52630,2,2649,5333
+January,Kerala,Kochi,42380,5,3087,6448
+January,Madhya Pradesh,Khajuraho,30838,5,3148,5821
+January,Madhya Pradesh,Bhopal,58132,6,3111,4899
+January,Madhya Pradesh,Bandhavgarh,33724,2,3940,6403
+January,Maharashtra,Mumbai,45749,2,3324,5056
+January,Maharashtra,Lonavala,24315,3,3970,4895
+January,Maharashtra,Mahabaleshwar,62291,4,2588,5753
+January,Manipur,Imphal,53800,2,3966,5218
+January,Manipur,Loktak Lake,52563,6,3996,4722
+January,Manipur,Kangla Fort,54624,2,3280,4043
+January,Meghalaya,Shillong,55080,2,3640,5465
+January,Meghalaya,Cherrapunji,22875,4,3740,5005
+January,Meghalaya,Mawlynnong,37704,5,2644,5970
+January,Mizoram,Aizawl,23313,6,2636,6196
+January,Mizoram,Lunglei,22327,4,3762,6296
+January,Mizoram,Champhai,33418,2,3540,4694
+January,Nagaland,Kohima,63079,4,3290,6713
+January,Nagaland,Mon,68559,4,2597,4602
+January,Nagaland,Dzukou Valley,68281,6,3141,4696
+January,Odisha,Puri,47551,2,3924,6677
+January,Odisha,Konark,23612,6,3717,4473
+January,Odisha,Bhubaneswar,41282,2,2503,5176
+January,Punjab,Amritsar,23801,6,2591,6968
+January,Punjab,Ludhiana,40200,3,2649,5056
+January,Punjab,Chandigarh,59401,6,2883,5751
+January,Rajasthan,Jaipur,30871,3,3670,5510
+January,Rajasthan,Udaipur,59984,4,3910,5766
+January,Rajasthan,Jaisalmer,44887,2,2776,6536
+January,Sikkim,Gangtok,33966,2,3001,4576
+January,Sikkim,Pelling,15798,5,3146,5214
+January,Sikkim,Tsomgo Lake,52888,3,3986,6676
+January,Tamil Nadu,Ooty,69660,4,3258,5373
+January,Tamil Nadu,Kodaikanal,46977,5,3177,6945
+January,Tamil Nadu,Chennai,24617,5,3662,4123
+January,Telangana,Hyderabad,49215,2,2913,4610
+January,Telangana,Warangal,43491,4,2830,5133
+January,Telangana,Nagarjuna Sagar,51959,4,2912,5462
+January,Tripura,Agartala,58176,2,3014,5627
+January,Tripura,Unakoti,17667,5,3608,4367
+January,Tripura,Neermahal,50483,6,3638,5791
+January,Uttar Pradesh,Agra,52538,6,3781,5674
+January,Uttar Pradesh,Varanasi,48264,6,2521,4842
+January,Uttar Pradesh,Lucknow,31752,3,3390,6325
+January,Uttarakhand,Nainital,42439,5,2908,5559
+January,Uttarakhand,Mussoorie,20018,3,4000,4986
+January,Uttarakhand,Rishikesh,56929,3,3530,6573
+January,West Bengal,Kolkata,65380,6,3336,6966
+January,West Bengal,Darjeeling,54936,5,3000,6419
+January,West Bengal,Sundarbans,25903,5,2918,4301
+January,Jammu & Kashmir,Srinagar,44642,5,2710,5719
+January,Jammu & Kashmir,Gulmarg,47110,4,3390,4478
+January,Jammu & Kashmir,Pahalgam,47582,4,2874,4438
+February,Andhra Pradesh,Tirupati,22493,3,3876,4153
+February,Andhra Pradesh,Visakhapatnam Beach,39837,5,2841,5471
+February,Andhra Pradesh,Araku Valley,42368,2,3480,6405
+February,Arunachal Pradesh,Tawang,29123,5,2664,4240
+February,Arunachal Pradesh,Ziro Valley,30951,5,2669,4577
+February,Arunachal Pradesh,Itanagar,66258,5,2525,5922
+February,Assam,Kaziranga,19432,6,2640,5686
+February,Assam,Guwahati,54146,3,2916,5198
+February,Assam,Majuli,24608,2,3591,5552
+February,Bihar,Bodh Gaya,52937,4,3996,4838
+February,Bihar,Patna,52371,6,2919,6333
+February,Bihar,Nalanda,28719,2,3866,5433
+February,Chhattisgarh,Chitrakote Falls,20402,3,3865,4812
+February,Chhattisgarh,Raipur,49188,6,2527,6040
+February,Chhattisgarh,Barnawapara Sanctuary,25165,2,2559,5373
+February,Goa,Baga Beach,49450,4,3966,5734
+February,Goa,Calangute,36484,4,3743,5892
+February,Goa,Fort Aguada,28925,2,2520,5573
+February,Gujarat,Gir National Park,27566,3,3405,6811
+February,Gujarat,Ahmedabad,55220,5,3258,4045
+February,Gujarat,Dwarka,51624,5,2710,5803
+February,Haryana,Kurukshetra,15679,6,2999,6287
+February,Haryana,Panipat,63497,6,2688,4898
+February,Haryana,Sultanpur Bird Sanctuary,50175,5,2770,5651
+February,Himachal Pradesh,Manali,33714,4,2681,5447
+February,Himachal Pradesh,Shimla,61771,3,2752,5338
+February,Himachal Pradesh,Kullu,49159,6,3350,4910
+February,Jharkhand,Ranchi,51008,5,3621,5246
+February,Jharkhand,Deoghar,51639,5,3419,4727
+February,Jharkhand,Betla National Park,42737,3,2585,5184
+February,Karnataka,Coorg,48547,3,3824,4100
+February,Karnataka,Mysuru,53615,3,3251,4165
+February,Karnataka,Bengaluru,52010,6,3668,6618
+February,Kerala,Munnar,47318,2,3582,5640
+February,Kerala,Alleppey,38091,6,3992,5602
+February,Kerala,Kochi,45928,3,2947,4198
+February,Madhya Pradesh,Khajuraho,23527,2,3980,4304
+February,Madhya Pradesh,Bhopal,15218,5,3042,5454
+February,Madhya Pradesh,Bandhavgarh,21080,3,2748,6818
+February,Maharashtra,Mumbai,58753,5,3777,4223
+February,Maharashtra,Lonavala,32584,2,3256,5136
+February,Maharashtra,Mahabaleshwar,36096,3,3007,5800
+February,Manipur,Imphal,45134,4,2687,5733
+February,Manipur,Loktak Lake,16127,5,3806,6172
+February,Manipur,Kangla Fort,65543,6,2959,5305
+February,Meghalaya,Shillong,33582,3,3544,4704
+February,Meghalaya,Cherrapunji,51738,5,2536,4519
+February,Meghalaya,Mawlynnong,28854,4,3580,4620
+February,Mizoram,Aizawl,36841,5,3742,6386
+February,Mizoram,Lunglei,60966,4,3591,5681
+February,Mizoram,Champhai,68527,2,3516,6116
+February,Nagaland,Kohima,61250,5,3618,5769
+February,Nagaland,Mon,39308,3,3621,6137
+February,Nagaland,Dzukou Valley,22127,4,3052,5107
+February,Odisha,Puri,64055,3,2856,6286
+February,Odisha,Konark,67631,3,3335,4258
+February,Odisha,Bhubaneswar,55986,6,3240,4608
+February,Punjab,Amritsar,26480,5,2596,6023
+February,Punjab,Ludhiana,23170,6,3725,5738
+February,Punjab,Chandigarh,32720,2,2510,4327
+February,Rajasthan,Jaipur,23802,2,2766,4200
+February,Rajasthan,Udaipur,37774,2,3247,6609
+February,Rajasthan,Jaisalmer,30403,2,2540,6065
+February,Sikkim,Gangtok,67520,6,3318,4048
+February,Sikkim,Pelling,34268,3,3270,5708
+February,Sikkim,Tsomgo Lake,27392,5,2843,5865
+February,Tamil Nadu,Ooty,50856,5,3081,6237
+February,Tamil Nadu,Kodaikanal,37986,6,3293,4621
+February,Tamil Nadu,Chennai,64308,3,2851,4201
+February,Telangana,Hyderabad,37927,3,3320,4724
+February,Telangana,Warangal,50886,2,2980,5563
+February,Telangana,Nagarjuna Sagar,57917,4,2931,4671
+February,Tripura,Agartala,35738,3,2972,6626
+February,Tripura,Unakoti,25540,3,2735,6431
+February,Tripura,Neermahal,15023,4,3532,5189
+February,Uttar Pradesh,Agra,17729,5,4000,4670
+February,Uttar Pradesh,Varanasi,61299,2,3245,6088
+February,Uttar Pradesh,Lucknow,17082,2,3930,6896
+February,Uttarakhand,Nainital,31228,2,3223,5093
+February,Uttarakhand,Mussoorie,40869,4,3656,5020
+February,Uttarakhand,Rishikesh,65882,4,2550,5627
+February,West Bengal,Kolkata,52025,6,3757,5702
+February,West Bengal,Darjeeling,61075,6,2596,4894
+February,West Bengal,Sundarbans,26770,2,3690,6996
+February,Jammu & Kashmir,Srinagar,65224,4,2536,4717
+February,Jammu & Kashmir,Gulmarg,27058,6,2919,4601
+February,Jammu & Kashmir,Pahalgam,49688,5,3601,6368
+March,Andhra Pradesh,Tirupati,40442,5,3257,6512
+March,Andhra Pradesh,Visakhapatnam Beach,41240,4,2606,5956
+March,Andhra Pradesh,Araku Valley,29227,6,3354,5683
+March,Arunachal Pradesh,Tawang,50082,3,3312,5227
+March,Arunachal Pradesh,Ziro Valley,29268,4,2620,4260
+March,Arunachal Pradesh,Itanagar,60325,5,3811,6384
+March,Assam,Kaziranga,28037,4,2598,5204
+March,Assam,Guwahati,52682,2,2866,6677
+March,Assam,Majuli,23665,4,2929,6146
+March,Bihar,Bodh Gaya,34297,3,3842,6542
+March,Bihar,Patna,23556,5,3468,5271
+March,Bihar,Nalanda,43763,4,2963,4425
+March,Chhattisgarh,Chitrakote Falls,20755,5,3274,6190
+March,Chhattisgarh,Raipur,48587,2,3661,4290
+March,Chhattisgarh,Barnawapara Sanctuary,44611,3,3485,6800
+March,Goa,Baga Beach,39105,5,3480,6700
+March,Goa,Calangute,23280,5,3292,4128
+March,Goa,Fort Aguada,31110,2,2777,5800
+March,Gujarat,Gir National Park,43024,6,2538,4071
+March,Gujarat,Ahmedabad,46451,6,2548,4806
+March,Gujarat,Dwarka,37429,6,2791,5081
+March,Haryana,Kurukshetra,39938,3,3111,5054
+March,Haryana,Panipat,37600,5,3660,6864
+March,Haryana,Sultanpur Bird Sanctuary,32458,2,3373,4202
+March,Himachal Pradesh,Manali,50411,6,2504,4283
+March,Himachal Pradesh,Shimla,37044,3,3295,6350
+March,Himachal Pradesh,Kullu,61979,4,3940,4829
+March,Jharkhand,Ranchi,49969,6,3816,4252
+March,Jharkhand,Deoghar,36907,3,3280,5790
+March,Jharkhand,Betla National Park,60263,4,2566,6978
+March,Karnataka,Coorg,28182,6,3122,4547
+March,Karnataka,Mysuru,17155,4,2878,4753
+March,Karnataka,Bengaluru,50243,2,3187,4887
+March,Kerala,Munnar,56414,3,3461,5003
+March,Kerala,Alleppey,49142,5,3008,4818
+March,Kerala,Kochi,46455,5,2780,4462
+March,Madhya Pradesh,Khajuraho,41305,2,3440,4238
+March,Madhya Pradesh,Bhopal,67359,2,3581,5107
+March,Madhya Pradesh,Bandhavgarh,58384,4,3365,4840
+March,Maharashtra,Mumbai,58472,5,2708,6768
+March,Maharashtra,Lonavala,49212,6,3243,5988
+March,Maharashtra,Mahabaleshwar,48099,4,3488,6312
+March,Manipur,Imphal,66157,4,3961,4629
+March,Manipur,Loktak Lake,20492,6,3264,6994
+March,Manipur,Kangla Fort,20751,3,2872,6491
+March,Meghalaya,Shillong,27967,4,2917,4207
+March,Meghalaya,Cherrapunji,23411,2,3097,5203
+March,Meghalaya,Mawlynnong,59531,3,2975,5358
+March,Mizoram,Aizawl,44884,4,3011,4939
+March,Mizoram,Lunglei,48369,6,3452,6813
+March,Mizoram,Champhai,27352,4,3586,4340
+March,Nagaland,Kohima,33560,2,2738,5096
+March,Nagaland,Mon,46402,5,3770,4995
+March,Nagaland,Dzukou Valley,24834,2,3397,5142
+March,Odisha,Puri,51863,4,3562,5414
+March,Odisha,Konark,45388,5,3570,4764
+March,Odisha,Bhubaneswar,64890,5,3494,4163
+March,Punjab,Amritsar,38151,3,2988,6752
+March,Punjab,Ludhiana,25350,3,3629,5566
+March,Punjab,Chandigarh,15555,2,2985,6990
+March,Rajasthan,Jaipur,69684,3,3629,6094
+March,Rajasthan,Udaipur,68234,5,3616,4321
+March,Rajasthan,Jaisalmer,47048,4,3401,4576
+March,Sikkim,Gangtok,67531,5,2793,5773
+March,Sikkim,Pelling,40815,2,2859,4276
+March,Sikkim,Tsomgo Lake,44942,5,3101,5861
+March,Tamil Nadu,Ooty,48709,5,3926,6480
+March,Tamil Nadu,Kodaikanal,50453,6,2753,4310
+March,Tamil Nadu,Chennai,49683,2,2674,5218
+March,Telangana,Hyderabad,42096,4,2741,4145
+March,Telangana,Warangal,38544,4,2612,4390
+March,Telangana,Nagarjuna Sagar,28859,5,3406,4480
+March,Tripura,Agartala,52839,6,3952,4616
+March,Tripura,Unakoti,54938,5,3881,5395
+March,Tripura,Neermahal,35614,5,3696,6084
+March,Uttar Pradesh,Agra,25247,2,3939,5815
+March,Uttar Pradesh,Varanasi,22102,2,2734,4330
+March,Uttar Pradesh,Lucknow,32804,2,3464,5769
+March,Uttarakhand,Nainital,37366,2,3365,4325
+March,Uttarakhand,Mussoorie,16195,2,3539,4088
+March,Uttarakhand,Rishikesh,68436,4,2946,5610
+March,West Bengal,Kolkata,56613,5,3112,4893
+March,West Bengal,Darjeeling,34987,3,3744,5873
+March,West Bengal,Sundarbans,29147,3,2983,5058
+March,Jammu & Kashmir,Srinagar,16768,3,3125,6418
+March,Jammu & Kashmir,Gulmarg,24310,5,3681,4998
+March,Jammu & Kashmir,Pahalgam,24989,4,3239,4496
+April,Andhra Pradesh,Tirupati,53155,2,3071,4860
+April,Andhra Pradesh,Visakhapatnam Beach,66814,5,3731,4468
+April,Andhra Pradesh,Araku Valley,52891,3,2801,4651
+April,Arunachal Pradesh,Tawang,54982,2,2796,4632
+April,Arunachal Pradesh,Ziro Valley,39206,2,2969,5059
+April,Arunachal Pradesh,Itanagar,25008,2,3669,4956
+April,Assam,Kaziranga,17808,3,3438,4770
+April,Assam,Guwahati,57471,2,3123,5005
+April,Assam,Majuli,55775,5,2791,5567
+April,Bihar,Bodh Gaya,22884,4,3598,6681
+April,Bihar,Patna,48599,5,3724,4155
+April,Bihar,Nalanda,34181,3,3840,4575
+April,Chhattisgarh,Chitrakote Falls,69950,3,2862,5601
+April,Chhattisgarh,Raipur,19626,4,3555,4948
+April,Chhattisgarh,Barnawapara Sanctuary,18585,3,2640,4177
+April,Goa,Baga Beach,53101,3,3168,6068
+April,Goa,Calangute,53712,6,3453,5042
+April,Goa,Fort Aguada,50585,4,3893,6452
+April,Gujarat,Gir National Park,60033,3,2707,6962
+April,Gujarat,Ahmedabad,20777,6,2727,5653
+April,Gujarat,Dwarka,19731,3,3162,5444
+April,Haryana,Kurukshetra,38213,2,3524,5567
+April,Haryana,Panipat,34986,4,3527,6413
+April,Haryana,Sultanpur Bird Sanctuary,56530,2,3529,6087
+April,Himachal Pradesh,Manali,26782,5,3311,6104
+April,Himachal Pradesh,Shimla,45185,6,2623,6643
+April,Himachal Pradesh,Kullu,16483,2,2575,5847
+April,Jharkhand,Ranchi,56839,3,2734,5141
+April,Jharkhand,Deoghar,62141,4,3730,5889
+April,Jharkhand,Betla National Park,29446,4,2548,6535
+April,Karnataka,Coorg,17130,6,2605,6347
+April,Karnataka,Mysuru,63311,4,3801,4926
+April,Karnataka,Bengaluru,17749,3,3088,6041
+April,Kerala,Munnar,35985,5,3342,5476
+April,Kerala,Alleppey,17598,6,3751,5027
+April,Kerala,Kochi,54553,6,3084,4838
+April,Madhya Pradesh,Khajuraho,56525,6,2916,6364
+April,Madhya Pradesh,Bhopal,69668,2,2562,5582
+April,Madhya Pradesh,Bandhavgarh,39852,4,3296,6433
+April,Maharashtra,Mumbai,30752,3,3401,4547
+April,Maharashtra,Lonavala,18768,3,3640,5439
+April,Maharashtra,Mahabaleshwar,68294,3,3794,4132
+April,Manipur,Imphal,36891,5,3964,6646
+April,Manipur,Loktak Lake,35995,5,2528,4063
+April,Manipur,Kangla Fort,49852,3,3975,4577
+April,Meghalaya,Shillong,25733,5,3851,4040
+April,Meghalaya,Cherrapunji,56656,4,3810,4646
+April,Meghalaya,Mawlynnong,41921,4,3061,6856
+April,Mizoram,Aizawl,31788,4,3883,5681
+April,Mizoram,Lunglei,21931,5,3626,6693
+April,Mizoram,Champhai,66088,2,3579,6437
+April,Nagaland,Kohima,38798,6,3035,4135
+April,Nagaland,Mon,35416,5,3194,5177
+April,Nagaland,Dzukou Valley,67810,3,2751,6518
+April,Odisha,Puri,65031,4,3887,6371
+April,Odisha,Konark,61106,4,3142,6882
+April,Odisha,Bhubaneswar,68089,5,3909,4081
+April,Punjab,Amritsar,60408,2,3105,6891
+April,Punjab,Ludhiana,51957,2,3149,5914
+April,Punjab,Chandigarh,25117,2,2876,6880
+April,Rajasthan,Jaipur,66318,4,3916,4025
+April,Rajasthan,Udaipur,68038,5,3403,4013
+April,Rajasthan,Jaisalmer,40398,2,2632,6433
+April,Sikkim,Gangtok,23703,3,3711,5698
+April,Sikkim,Pelling,25649,2,3259,5318
+April,Sikkim,Tsomgo Lake,32289,2,2959,5083
+April,Tamil Nadu,Ooty,21347,3,2879,5268
+April,Tamil Nadu,Kodaikanal,64960,3,2616,5238
+April,Tamil Nadu,Chennai,32571,4,2777,4407
+April,Telangana,Hyderabad,56538,5,2971,4451
+April,Telangana,Warangal,53160,6,3661,5467
+April,Telangana,Nagarjuna Sagar,65263,3,3405,5982
+April,Tripura,Agartala,55294,5,2747,5032
+April,Tripura,Unakoti,69637,2,3752,6012
+April,Tripura,Neermahal,67479,2,3441,4775
+April,Uttar Pradesh,Agra,17527,5,2597,5195
+April,Uttar Pradesh,Varanasi,60618,3,2934,6709
+April,Uttar Pradesh,Lucknow,27928,2,3086,4185
+April,Uttarakhand,Nainital,30473,5,3462,6750
+April,Uttarakhand,Mussoorie,45271,3,3942,4201
+April,Uttarakhand,Rishikesh,51423,2,3830,5640
+April,West Bengal,Kolkata,63413,2,2553,4668
+April,West Bengal,Darjeeling,65201,3,3971,4722
+April,West Bengal,Sundarbans,37007,3,3995,5088
+April,Jammu & Kashmir,Srinagar,51407,2,3621,6084
+April,Jammu & Kashmir,Gulmarg,29346,2,2792,5570
+April,Jammu & Kashmir,Pahalgam,58223,2,2680,5778
+May,Andhra Pradesh,Tirupati,34328,6,3764,4524
+May,Andhra Pradesh,Visakhapatnam Beach,17883,6,2585,5958
+May,Andhra Pradesh,Araku Valley,29224,3,3944,6342
+May,Arunachal Pradesh,Tawang,21226,2,2524,6055
+May,Arunachal Pradesh,Ziro Valley,23791,2,3771,6179
+May,Arunachal Pradesh,Itanagar,18252,5,2652,4052
+May,Assam,Kaziranga,38596,4,2550,4875
+May,Assam,Guwahati,56450,5,2631,6159
+May,Assam,Majuli,54861,3,2538,5730
+May,Bihar,Bodh Gaya,24181,2,3987,6054
+May,Bihar,Patna,46094,3,3575,6843
+May,Bihar,Nalanda,16674,3,3554,6057
+May,Chhattisgarh,Chitrakote Falls,21009,6,3817,5224
+May,Chhattisgarh,Raipur,19037,6,2952,5038
+May,Chhattisgarh,Barnawapara Sanctuary,60516,5,2700,6238
+May,Goa,Baga Beach,49547,2,3656,4618
+May,Goa,Calangute,20448,4,2693,5318
+May,Goa,Fort Aguada,42568,3,3425,5985
+May,Gujarat,Gir National Park,44270,4,3394,6511
+May,Gujarat,Ahmedabad,53211,3,2516,5932
+May,Gujarat,Dwarka,46007,4,2862,5449
+May,Haryana,Kurukshetra,35607,6,3276,5669
+May,Haryana,Panipat,32007,2,3942,5117
+May,Haryana,Sultanpur Bird Sanctuary,60459,4,2690,4658
+May,Himachal Pradesh,Manali,62743,2,3597,5251
+May,Himachal Pradesh,Shimla,28946,5,3822,5104
+May,Himachal Pradesh,Kullu,43276,5,3765,5662
+May,Jharkhand,Ranchi,60963,5,3077,4923
+May,Jharkhand,Deoghar,22322,2,2842,6827
+May,Jharkhand,Betla National Park,25832,4,2629,5890
+May,Karnataka,Coorg,21340,3,3333,4083
+May,Karnataka,Mysuru,65718,6,2864,5836
+May,Karnataka,Bengaluru,40755,4,3143,6955
+May,Kerala,Munnar,45179,4,2766,6265
+May,Kerala,Alleppey,51214,2,3764,4250
+May,Kerala,Kochi,34654,4,3222,6865
+May,Madhya Pradesh,Khajuraho,69475,2,2599,6855
+May,Madhya Pradesh,Bhopal,26951,3,3108,4956
+May,Madhya Pradesh,Bandhavgarh,35067,4,3539,5493
+May,Maharashtra,Mumbai,55284,4,3906,6420
+May,Maharashtra,Lonavala,66358,4,2593,5003
+May,Maharashtra,Mahabaleshwar,48652,5,3229,6866
+May,Manipur,Imphal,46979,2,3535,6676
+May,Manipur,Loktak Lake,17961,4,2767,6484
+May,Manipur,Kangla Fort,60555,2,3439,5182
+May,Meghalaya,Shillong,27645,2,2931,6565
+May,Meghalaya,Cherrapunji,36787,6,2510,6492
+May,Meghalaya,Mawlynnong,52037,2,3258,5752
+May,Mizoram,Aizawl,39742,4,3185,5999
+May,Mizoram,Lunglei,59757,6,3245,4426
+May,Mizoram,Champhai,65734,5,3554,4773
+May,Nagaland,Kohima,30046,6,3082,5834
+May,Nagaland,Mon,68553,2,3031,5636
+May,Nagaland,Dzukou Valley,45266,4,3270,4267
+May,Odisha,Puri,24774,5,3887,5151
+May,Odisha,Konark,45252,4,2551,4966
+May,Odisha,Bhubaneswar,52090,5,3860,6804
+May,Punjab,Amritsar,26059,4,3476,4236
+May,Punjab,Ludhiana,56018,5,3271,6781
+May,Punjab,Chandigarh,38572,5,3060,5283
+May,Rajasthan,Jaipur,31468,2,2987,6866
+May,Rajasthan,Udaipur,54864,4,3251,5659
+May,Rajasthan,Jaisalmer,31841,3,3765,5141
+May,Sikkim,Gangtok,60194,5,3371,5622
+May,Sikkim,Pelling,29862,6,3601,4192
+May,Sikkim,Tsomgo Lake,39061,5,2956,4226
+May,Tamil Nadu,Ooty,44168,3,2701,5870
+May,Tamil Nadu,Kodaikanal,65937,5,3581,4553
+May,Tamil Nadu,Chennai,37627,6,3090,6192
+May,Telangana,Hyderabad,40012,4,3720,6290
+May,Telangana,Warangal,49621,3,2525,5744
+May,Telangana,Nagarjuna Sagar,52218,5,3359,5228
+May,Tripura,Agartala,25199,4,3818,4666
+May,Tripura,Unakoti,24970,3,3406,5330
+May,Tripura,Neermahal,53432,3,2895,5919
+May,Uttar Pradesh,Agra,41474,5,3012,4326
+May,Uttar Pradesh,Varanasi,65291,2,3470,5968
+May,Uttar Pradesh,Lucknow,41697,2,2942,6073
+May,Uttarakhand,Nainital,33124,3,3605,5012
+May,Uttarakhand,Mussoorie,30362,3,2552,5348
+May,Uttarakhand,Rishikesh,39225,3,3348,5415
+May,West Bengal,Kolkata,49600,2,3874,4187
+May,West Bengal,Darjeeling,58303,3,3832,5187
+May,West Bengal,Sundarbans,20382,3,3857,5622
+May,Jammu & Kashmir,Srinagar,22437,5,3528,6549
+May,Jammu & Kashmir,Gulmarg,47656,3,3377,5311
+May,Jammu & Kashmir,Pahalgam,64105,4,3554,6883
+June,Andhra Pradesh,Tirupati,50998,4,3109,5954
+June,Andhra Pradesh,Visakhapatnam Beach,62690,4,2996,4506
+June,Andhra Pradesh,Araku Valley,64040,3,3296,6946
+June,Arunachal Pradesh,Tawang,47531,5,2593,4200
+June,Arunachal Pradesh,Ziro Valley,51053,2,3024,4502
+June,Arunachal Pradesh,Itanagar,35071,6,3113,5792
+June,Assam,Kaziranga,35493,4,3974,4824
+June,Assam,Guwahati,50867,5,3579,6179
+June,Assam,Majuli,23475,4,3386,4243
+June,Bihar,Bodh Gaya,50439,2,3372,4847
+June,Bihar,Patna,42831,5,2804,4368
+June,Bihar,Nalanda,15569,3,2723,5711
+June,Chhattisgarh,Chitrakote Falls,69927,6,3806,4024
+June,Chhattisgarh,Raipur,35205,5,3611,4409
+June,Chhattisgarh,Barnawapara Sanctuary,64349,6,2966,6458
+June,Goa,Baga Beach,63167,4,3278,4285
+June,Goa,Calangute,27558,5,3814,6540
+June,Goa,Fort Aguada,36033,5,3267,5425
+June,Gujarat,Gir National Park,59497,3,3077,4051
+June,Gujarat,Ahmedabad,15247,5,3963,5980
+June,Gujarat,Dwarka,49545,5,2943,4171
+June,Haryana,Kurukshetra,16070,4,2742,5950
+June,Haryana,Panipat,15761,6,2545,5962
+June,Haryana,Sultanpur Bird Sanctuary,50717,4,3773,6098
+June,Himachal Pradesh,Manali,25111,5,2870,4538
+June,Himachal Pradesh,Shimla,30960,6,3075,6966
+June,Himachal Pradesh,Kullu,27365,6,3566,6620
+June,Jharkhand,Ranchi,17588,4,3151,6592
+June,Jharkhand,Deoghar,40864,5,3212,6943
+June,Jharkhand,Betla National Park,57826,2,3419,4235
+June,Karnataka,Coorg,51980,3,3706,5671
+June,Karnataka,Mysuru,44309,4,3888,6761
+June,Karnataka,Bengaluru,32369,5,3320,4425
+June,Kerala,Munnar,32476,5,3070,5757
+June,Kerala,Alleppey,42528,4,3693,4224
+June,Kerala,Kochi,44959,2,3591,4561
+June,Madhya Pradesh,Khajuraho,49777,6,3074,5041
+June,Madhya Pradesh,Bhopal,26530,5,3176,6177
+June,Madhya Pradesh,Bandhavgarh,50407,2,2956,4967
+June,Maharashtra,Mumbai,17609,5,3276,5685
+June,Maharashtra,Lonavala,55988,6,3375,6904
+June,Maharashtra,Mahabaleshwar,16438,6,3121,4994
+June,Manipur,Imphal,45756,4,3798,4731
+June,Manipur,Loktak Lake,64126,6,3605,6622
+June,Manipur,Kangla Fort,31206,6,3091,6500
+June,Meghalaya,Shillong,22085,6,3427,5524
+June,Meghalaya,Cherrapunji,27661,3,3092,5040
+June,Meghalaya,Mawlynnong,52687,6,3736,6563
+June,Mizoram,Aizawl,65360,2,2873,6922
+June,Mizoram,Lunglei,42087,4,2589,6145
+June,Mizoram,Champhai,64440,2,3363,4213
+June,Nagaland,Kohima,68194,2,3717,6942
+June,Nagaland,Mon,31573,4,2921,6552
+June,Nagaland,Dzukou Valley,39821,5,2826,4740
+June,Odisha,Puri,46346,6,2707,4218
+June,Odisha,Konark,55347,4,2720,6984
+June,Odisha,Bhubaneswar,50554,2,3248,5579
+June,Punjab,Amritsar,35640,5,3370,5804
+June,Punjab,Ludhiana,51410,4,3344,4713
+June,Punjab,Chandigarh,47156,5,2558,6587
+June,Rajasthan,Jaipur,17662,2,3366,5263
+June,Rajasthan,Udaipur,69670,2,3323,6496
+June,Rajasthan,Jaisalmer,51136,2,3301,5212
+June,Sikkim,Gangtok,42647,2,3866,4958
+June,Sikkim,Pelling,54015,6,2569,4841
+June,Sikkim,Tsomgo Lake,24716,4,2697,6578
+June,Tamil Nadu,Ooty,34680,3,3926,6255
+June,Tamil Nadu,Kodaikanal,51587,4,3522,5855
+June,Tamil Nadu,Chennai,46084,5,2853,5374
+June,Telangana,Hyderabad,67494,5,2849,5435
+June,Telangana,Warangal,41544,4,2539,5609
+June,Telangana,Nagarjuna Sagar,35876,4,3274,6850
+June,Tripura,Agartala,41242,4,2806,5929
+June,Tripura,Unakoti,34104,5,3802,6491
+June,Tripura,Neermahal,33871,3,3529,5763
+June,Uttar Pradesh,Agra,40447,3,2977,6560
+June,Uttar Pradesh,Varanasi,44009,2,3720,4361
+June,Uttar Pradesh,Lucknow,31948,5,2636,6749
+June,Uttarakhand,Nainital,19657,5,3881,6978
+June,Uttarakhand,Mussoorie,69271,5,3609,4415
+June,Uttarakhand,Rishikesh,23502,6,4000,5733
+June,West Bengal,Kolkata,57952,2,2735,4835
+June,West Bengal,Darjeeling,37333,4,2954,5498
+June,West Bengal,Sundarbans,31446,5,3016,6565
+June,Jammu & Kashmir,Srinagar,36528,4,2951,5301
+June,Jammu & Kashmir,Gulmarg,53660,5,3610,5128
+June,Jammu & Kashmir,Pahalgam,46485,3,3480,4424
+July,Andhra Pradesh,Tirupati,54889,2,2724,5198
+July,Andhra Pradesh,Visakhapatnam Beach,28505,2,3455,6316
+July,Andhra Pradesh,Araku Valley,21811,4,2502,6046
+July,Arunachal Pradesh,Tawang,58557,4,2778,6071
+July,Arunachal Pradesh,Ziro Valley,69263,2,3124,4435
+July,Arunachal Pradesh,Itanagar,66961,4,3073,5225
+July,Assam,Kaziranga,33964,5,3984,6481
+July,Assam,Guwahati,28253,6,3184,5516
+July,Assam,Majuli,19154,2,3632,5183
+July,Bihar,Bodh Gaya,50684,3,3978,4801
+July,Bihar,Patna,47038,5,3713,4115
+July,Bihar,Nalanda,68885,2,2771,6097
+July,Chhattisgarh,Chitrakote Falls,69591,2,3111,6189
+July,Chhattisgarh,Raipur,37484,3,3474,5005
+July,Chhattisgarh,Barnawapara Sanctuary,42856,3,2737,6036
+July,Goa,Baga Beach,35734,3,3389,6217
+July,Goa,Calangute,16246,3,3302,6121
+July,Goa,Fort Aguada,16178,3,2520,6562
+July,Gujarat,Gir National Park,22836,4,3998,4103
+July,Gujarat,Ahmedabad,15257,6,3220,6266
+July,Gujarat,Dwarka,68935,3,3117,6476
+July,Haryana,Kurukshetra,19641,3,2634,5104
+July,Haryana,Panipat,42278,3,3806,4957
+July,Haryana,Sultanpur Bird Sanctuary,46606,2,2807,4394
+July,Himachal Pradesh,Manali,47417,3,3967,4333
+July,Himachal Pradesh,Shimla,34705,2,2785,6455
+July,Himachal Pradesh,Kullu,38056,3,2882,6913
+July,Jharkhand,Ranchi,17453,6,2877,4021
+July,Jharkhand,Deoghar,26871,4,3662,4143
+July,Jharkhand,Betla National Park,36320,3,3754,6305
+July,Karnataka,Coorg,59490,2,2779,6945
+July,Karnataka,Mysuru,42012,2,2762,6497
+July,Karnataka,Bengaluru,22564,4,2870,5729
+July,Kerala,Munnar,68306,5,2592,4121
+July,Kerala,Alleppey,54467,6,3525,5573
+July,Kerala,Kochi,68665,4,3878,4361
+July,Madhya Pradesh,Khajuraho,24719,5,3113,5518
+July,Madhya Pradesh,Bhopal,33990,3,3207,4851
+July,Madhya Pradesh,Bandhavgarh,55872,2,3323,6488
+July,Maharashtra,Mumbai,27266,4,2651,5874
+July,Maharashtra,Lonavala,29381,4,3637,5123
+July,Maharashtra,Mahabaleshwar,48684,6,2655,5010
+July,Manipur,Imphal,17254,4,3097,4450
+July,Manipur,Loktak Lake,35002,3,2608,4742
+July,Manipur,Kangla Fort,49024,3,2597,6425
+July,Meghalaya,Shillong,29043,5,2596,5744
+July,Meghalaya,Cherrapunji,41851,4,3780,4102
+July,Meghalaya,Mawlynnong,15301,3,2550,6928
+July,Mizoram,Aizawl,44150,4,3134,5779
+July,Mizoram,Lunglei,57207,4,3274,5269
+July,Mizoram,Champhai,17050,5,3566,4670
+July,Nagaland,Kohima,57630,5,2623,5218
+July,Nagaland,Mon,30362,3,3919,4159
+July,Nagaland,Dzukou Valley,17348,6,2844,5772
+July,Odisha,Puri,68614,3,3451,4927
+July,Odisha,Konark,67397,6,2573,4919
+July,Odisha,Bhubaneswar,36027,5,3824,6181
+July,Punjab,Amritsar,61981,4,3779,6863
+July,Punjab,Ludhiana,57858,6,3361,4009
+July,Punjab,Chandigarh,35727,3,3500,6409
+July,Rajasthan,Jaipur,60305,6,3178,6787
+July,Rajasthan,Udaipur,39595,3,2509,6965
+July,Rajasthan,Jaisalmer,54644,3,3480,6199
+July,Sikkim,Gangtok,16413,6,3163,4524
+July,Sikkim,Pelling,46692,3,2665,4696
+July,Sikkim,Tsomgo Lake,49882,4,2845,5902
+July,Tamil Nadu,Ooty,28286,4,3818,5376
+July,Tamil Nadu,Kodaikanal,16405,4,3272,6759
+July,Tamil Nadu,Chennai,36366,2,3897,6075
+July,Telangana,Hyderabad,49887,5,2510,6584
+July,Telangana,Warangal,20972,3,2565,6951
+July,Telangana,Nagarjuna Sagar,56826,5,2640,6744
+July,Tripura,Agartala,58940,2,3537,4153
+July,Tripura,Unakoti,52011,4,2704,4575
+July,Tripura,Neermahal,61818,4,3148,4115
+July,Uttar Pradesh,Agra,37711,4,3002,5237
+July,Uttar Pradesh,Varanasi,69320,2,3756,4343
+July,Uttar Pradesh,Lucknow,20645,6,2976,6383
+July,Uttarakhand,Nainital,31378,4,3932,5849
+July,Uttarakhand,Mussoorie,27007,3,2519,4807
+July,Uttarakhand,Rishikesh,61955,3,2749,4296
+July,West Bengal,Kolkata,62205,4,2657,6384
+July,West Bengal,Darjeeling,40398,4,3888,6830
+July,West Bengal,Sundarbans,24517,2,2962,4687
+July,Jammu & Kashmir,Srinagar,31386,6,3375,6762
+July,Jammu & Kashmir,Gulmarg,31093,6,3694,5569
+July,Jammu & Kashmir,Pahalgam,54012,3,3573,4900
+August,Andhra Pradesh,Tirupati,35982,3,2713,6109
+August,Andhra Pradesh,Visakhapatnam Beach,51209,4,3728,6869
+August,Andhra Pradesh,Araku Valley,45109,3,3799,6826
+August,Arunachal Pradesh,Tawang,55098,4,3622,4794
+August,Arunachal Pradesh,Ziro Valley,59164,6,2690,5164
+August,Arunachal Pradesh,Itanagar,22264,6,3048,6509
+August,Assam,Kaziranga,64803,3,3458,5763
+August,Assam,Guwahati,66556,2,3227,5280
+August,Assam,Majuli,47549,2,3042,4773
+August,Bihar,Bodh Gaya,68587,2,3873,6107
+August,Bihar,Patna,36463,4,3494,6685
+August,Bihar,Nalanda,50153,4,3235,6233
+August,Chhattisgarh,Chitrakote Falls,35018,4,2797,4701
+August,Chhattisgarh,Raipur,61251,2,3424,6993
+August,Chhattisgarh,Barnawapara Sanctuary,42780,3,3696,4978
+August,Goa,Baga Beach,51995,3,3001,4672
+August,Goa,Calangute,57588,5,2971,5044
+August,Goa,Fort Aguada,15878,5,3981,6032
+August,Gujarat,Gir National Park,52024,4,3360,6766
+August,Gujarat,Ahmedabad,21379,2,3121,6815
+August,Gujarat,Dwarka,37124,5,3948,5781
+August,Haryana,Kurukshetra,54243,5,3676,6698
+August,Haryana,Panipat,32966,6,3486,4840
+August,Haryana,Sultanpur Bird Sanctuary,20502,6,3161,6519
+August,Himachal Pradesh,Manali,52190,6,2851,5304
+August,Himachal Pradesh,Shimla,43807,3,3978,4256
+August,Himachal Pradesh,Kullu,40553,5,3823,5057
+August,Jharkhand,Ranchi,49113,3,3877,4640
+August,Jharkhand,Deoghar,34809,4,2717,6277
+August,Jharkhand,Betla National Park,67920,6,3007,5725
+August,Karnataka,Coorg,39509,3,3154,5933
+August,Karnataka,Mysuru,61968,6,3962,6823
+August,Karnataka,Bengaluru,33604,5,3798,6394
+August,Kerala,Munnar,68310,6,2569,6435
+August,Kerala,Alleppey,33100,5,3541,5698
+August,Kerala,Kochi,59649,3,2888,5518
+August,Madhya Pradesh,Khajuraho,40998,3,3443,4891
+August,Madhya Pradesh,Bhopal,21712,3,3479,6317
+August,Madhya Pradesh,Bandhavgarh,41267,5,3149,6111
+August,Maharashtra,Mumbai,65202,3,3110,4194
+August,Maharashtra,Lonavala,16699,6,3285,5501
+August,Maharashtra,Mahabaleshwar,57394,4,2591,4315
+August,Manipur,Imphal,35173,3,3400,5826
+August,Manipur,Loktak Lake,30642,5,2742,4796
+August,Manipur,Kangla Fort,53469,5,3285,5164
+August,Meghalaya,Shillong,20479,3,2508,4645
+August,Meghalaya,Cherrapunji,60226,3,2686,4440
+August,Meghalaya,Mawlynnong,15442,6,3037,4721
+August,Mizoram,Aizawl,33998,6,3761,6416
+August,Mizoram,Lunglei,18648,4,3062,4694
+August,Mizoram,Champhai,54152,4,2584,6123
+August,Nagaland,Kohima,66273,3,3097,6149
+August,Nagaland,Mon,39582,6,3347,5842
+August,Nagaland,Dzukou Valley,51630,4,3978,6676
+August,Odisha,Puri,27967,2,3840,6493
+August,Odisha,Konark,42181,2,3036,5207
+August,Odisha,Bhubaneswar,59886,4,3551,4980
+August,Punjab,Amritsar,65997,5,3832,5574
+August,Punjab,Ludhiana,51765,3,3161,5978
+August,Punjab,Chandigarh,51039,3,3152,6329
+August,Rajasthan,Jaipur,54692,6,3161,4089
+August,Rajasthan,Udaipur,26726,3,2577,6524
+August,Rajasthan,Jaisalmer,18900,5,2717,5786
+August,Sikkim,Gangtok,33878,5,3447,6998
+August,Sikkim,Pelling,42118,4,3094,6661
+August,Sikkim,Tsomgo Lake,54936,3,3749,4851
+August,Tamil Nadu,Ooty,52848,5,3221,5680
+August,Tamil Nadu,Kodaikanal,67240,5,3058,4911
+August,Tamil Nadu,Chennai,58912,5,3406,4605
+August,Telangana,Hyderabad,56699,6,2778,4514
+August,Telangana,Warangal,17654,6,3523,6006
+August,Telangana,Nagarjuna Sagar,56944,5,3608,4210
+August,Tripura,Agartala,40581,6,2699,6490
+August,Tripura,Unakoti,15901,5,3408,6775
+August,Tripura,Neermahal,51516,6,3645,6205
+August,Uttar Pradesh,Agra,15599,6,3542,4988
+August,Uttar Pradesh,Varanasi,69378,3,3414,6032
+August,Uttar Pradesh,Lucknow,38767,6,3404,5584
+August,Uttarakhand,Nainital,40181,6,3234,4383
+August,Uttarakhand,Mussoorie,61075,4,3396,4946
+August,Uttarakhand,Rishikesh,34977,5,3917,5491
+August,West Bengal,Kolkata,52465,3,3245,4333
+August,West Bengal,Darjeeling,33676,4,2987,5318
+August,West Bengal,Sundarbans,68636,6,2545,6474
+August,Jammu & Kashmir,Srinagar,66490,6,3285,4119
+August,Jammu & Kashmir,Gulmarg,39308,6,2677,4460
+August,Jammu & Kashmir,Pahalgam,15637,4,3132,6182
+September,Andhra Pradesh,Tirupati,26054,6,3041,6604
+September,Andhra Pradesh,Visakhapatnam Beach,18272,3,3763,6740
+September,Andhra Pradesh,Araku Valley,43117,2,2709,4645
+September,Arunachal Pradesh,Tawang,44325,2,2526,4415
+September,Arunachal Pradesh,Ziro Valley,44191,4,3496,5314
+September,Arunachal Pradesh,Itanagar,56481,5,3783,5290
+September,Assam,Kaziranga,63054,2,3947,4713
+September,Assam,Guwahati,20975,5,3977,5477
+September,Assam,Majuli,58870,5,3442,5677
+September,Bihar,Bodh Gaya,59191,3,3276,5802
+September,Bihar,Patna,69433,2,3045,4986
+September,Bihar,Nalanda,20147,3,3525,5074
+September,Chhattisgarh,Chitrakote Falls,35366,3,3745,6812
+September,Chhattisgarh,Raipur,52742,4,3891,4949
+September,Chhattisgarh,Barnawapara Sanctuary,44720,2,3801,6729
+September,Goa,Baga Beach,52306,5,3968,5788
+September,Goa,Calangute,32162,2,3750,6337
+September,Goa,Fort Aguada,61243,2,3530,4605
+September,Gujarat,Gir National Park,65195,3,2731,5508
+September,Gujarat,Ahmedabad,42767,4,3303,4959
+September,Gujarat,Dwarka,22488,3,2685,5010
+September,Haryana,Kurukshetra,39148,2,3055,6174
+September,Haryana,Panipat,47926,2,3781,6776
+September,Haryana,Sultanpur Bird Sanctuary,31128,5,3687,4555
+September,Himachal Pradesh,Manali,23323,3,2636,6877
+September,Himachal Pradesh,Shimla,58049,5,3311,6449
+September,Himachal Pradesh,Kullu,35202,6,3582,6811
+September,Jharkhand,Ranchi,46131,4,3222,4417
+September,Jharkhand,Deoghar,47069,4,3691,5068
+September,Jharkhand,Betla National Park,20852,5,2620,6708
+September,Karnataka,Coorg,41968,4,3836,4393
+September,Karnataka,Mysuru,30857,3,3648,5366
+September,Karnataka,Bengaluru,47155,3,3839,6637
+September,Kerala,Munnar,45840,3,3506,4607
+September,Kerala,Alleppey,52110,6,2996,4364
+September,Kerala,Kochi,65262,5,2861,6649
+September,Madhya Pradesh,Khajuraho,23247,3,3264,6976
+September,Madhya Pradesh,Bhopal,33481,3,3217,5330
+September,Madhya Pradesh,Bandhavgarh,52308,4,3983,5105
+September,Maharashtra,Mumbai,51649,6,3419,6207
+September,Maharashtra,Lonavala,61561,6,2990,5671
+September,Maharashtra,Mahabaleshwar,64248,3,3646,4473
+September,Manipur,Imphal,47806,5,2721,4938
+September,Manipur,Loktak Lake,56870,2,3106,5920
+September,Manipur,Kangla Fort,31281,6,3502,4972
+September,Meghalaya,Shillong,24995,3,3650,4763
+September,Meghalaya,Cherrapunji,30464,6,3752,5680
+September,Meghalaya,Mawlynnong,21924,6,3080,5366
+September,Mizoram,Aizawl,65962,6,3355,5104
+September,Mizoram,Lunglei,37579,5,3669,5808
+September,Mizoram,Champhai,17493,3,3933,5762
+September,Nagaland,Kohima,28590,2,2593,6894
+September,Nagaland,Mon,29612,4,3477,6153
+September,Nagaland,Dzukou Valley,18340,2,2889,4062
+September,Odisha,Puri,46409,2,3582,5785
+September,Odisha,Konark,32082,2,2552,6506
+September,Odisha,Bhubaneswar,26544,4,3604,4183
+September,Punjab,Amritsar,41947,4,3212,4853
+September,Punjab,Ludhiana,68275,5,2543,6510
+September,Punjab,Chandigarh,25010,3,3850,4467
+September,Rajasthan,Jaipur,58413,5,3558,6405
+September,Rajasthan,Udaipur,63316,5,3965,4609
+September,Rajasthan,Jaisalmer,36527,3,2715,5113
+September,Sikkim,Gangtok,46108,4,2713,6798
+September,Sikkim,Pelling,17140,3,3972,5639
+September,Sikkim,Tsomgo Lake,15940,3,3185,5638
+September,Tamil Nadu,Ooty,38835,4,2724,6471
+September,Tamil Nadu,Kodaikanal,36606,2,3114,6842
+September,Tamil Nadu,Chennai,66705,3,2897,5146
+September,Telangana,Hyderabad,61053,3,3452,6173
+September,Telangana,Warangal,42523,4,3942,5525
+September,Telangana,Nagarjuna Sagar,53630,2,3962,6283
+September,Tripura,Agartala,16535,6,3258,4931
+September,Tripura,Unakoti,43224,6,2986,5765
+September,Tripura,Neermahal,58885,2,3956,4040
+September,Uttar Pradesh,Agra,61065,3,3328,4600
+September,Uttar Pradesh,Varanasi,59693,2,3851,5439
+September,Uttar Pradesh,Lucknow,59257,6,3565,4224
+September,Uttarakhand,Nainital,42704,6,3538,5679
+September,Uttarakhand,Mussoorie,49999,4,3810,6508
+September,Uttarakhand,Rishikesh,63033,3,2748,4473
+September,West Bengal,Kolkata,68467,4,3016,6958
+September,West Bengal,Darjeeling,44977,6,2837,4569
+September,West Bengal,Sundarbans,55194,4,3768,4014
+September,Jammu & Kashmir,Srinagar,39039,4,3769,4953
+September,Jammu & Kashmir,Gulmarg,28784,3,2712,6855
+September,Jammu & Kashmir,Pahalgam,23687,5,3338,6660
+October,Andhra Pradesh,Tirupati,68820,3,3073,5028
+October,Andhra Pradesh,Visakhapatnam Beach,48249,4,2738,5969
+October,Andhra Pradesh,Araku Valley,25514,5,3381,4187
+October,Arunachal Pradesh,Tawang,67032,4,3057,6016
+October,Arunachal Pradesh,Ziro Valley,52631,5,3553,5696
+October,Arunachal Pradesh,Itanagar,50473,4,3730,5020
+October,Assam,Kaziranga,55105,6,2534,5237
+October,Assam,Guwahati,54085,5,2959,4302
+October,Assam,Majuli,64875,3,3171,5561
+October,Bihar,Bodh Gaya,34927,5,3192,5648
+October,Bihar,Patna,37341,6,3147,6032
+October,Bihar,Nalanda,28243,5,3969,5603
+October,Chhattisgarh,Chitrakote Falls,68269,6,3372,5964
+October,Chhattisgarh,Raipur,61627,3,3880,4217
+October,Chhattisgarh,Barnawapara Sanctuary,51108,5,2599,4627
+October,Goa,Baga Beach,36571,4,2669,5604
+October,Goa,Calangute,20958,5,2893,6913
+October,Goa,Fort Aguada,55206,5,2569,5501
+October,Gujarat,Gir National Park,56732,2,3919,6755
+October,Gujarat,Ahmedabad,30592,3,3770,6417
+October,Gujarat,Dwarka,55465,3,3864,6567
+October,Haryana,Kurukshetra,25241,5,2996,4750
+October,Haryana,Panipat,18948,2,2835,4365
+October,Haryana,Sultanpur Bird Sanctuary,47619,2,3878,5487
+October,Himachal Pradesh,Manali,44511,3,3841,4763
+October,Himachal Pradesh,Shimla,42373,4,3050,6585
+October,Himachal Pradesh,Kullu,55543,3,3670,4359
+October,Jharkhand,Ranchi,27547,3,3536,6488
+October,Jharkhand,Deoghar,46269,6,3878,5996
+October,Jharkhand,Betla National Park,63748,4,2546,5673
+October,Karnataka,Coorg,69929,2,3894,5750
+October,Karnataka,Mysuru,25340,5,3671,6942
+October,Karnataka,Bengaluru,53335,3,3526,6604
+October,Kerala,Munnar,56261,3,3175,5881
+October,Kerala,Alleppey,23066,2,2748,4111
+October,Kerala,Kochi,26924,6,3186,6557
+October,Madhya Pradesh,Khajuraho,58362,4,3669,4922
+October,Madhya Pradesh,Bhopal,37323,5,3032,4534
+October,Madhya Pradesh,Bandhavgarh,37888,3,3043,5786
+October,Maharashtra,Mumbai,42305,4,2768,6528
+October,Maharashtra,Lonavala,17089,3,2583,5689
+October,Maharashtra,Mahabaleshwar,34967,5,3700,6543
+October,Manipur,Imphal,43639,4,2737,4261
+October,Manipur,Loktak Lake,40312,6,3103,4836
+October,Manipur,Kangla Fort,17954,2,3540,5412
+October,Meghalaya,Shillong,40212,4,3426,4203
+October,Meghalaya,Cherrapunji,56710,5,3273,4965
+October,Meghalaya,Mawlynnong,15489,3,2532,4271
+October,Mizoram,Aizawl,25066,4,2980,4409
+October,Mizoram,Lunglei,56112,2,2649,4432
+October,Mizoram,Champhai,30815,3,3668,4977
+October,Nagaland,Kohima,61924,2,2971,6898
+October,Nagaland,Mon,26299,5,3671,6144
+October,Nagaland,Dzukou Valley,27852,6,3450,4904
+October,Odisha,Puri,43121,5,3584,4454
+October,Odisha,Konark,51152,4,3351,4748
+October,Odisha,Bhubaneswar,64749,2,3608,6357
+October,Punjab,Amritsar,61745,5,3501,4755
+October,Punjab,Ludhiana,15279,5,3483,5837
+October,Punjab,Chandigarh,34095,2,3673,4361
+October,Rajasthan,Jaipur,25748,3,2539,4380
+October,Rajasthan,Udaipur,45947,4,2712,4373
+October,Rajasthan,Jaisalmer,39573,3,3745,6634
+October,Sikkim,Gangtok,22688,4,3139,4979
+October,Sikkim,Pelling,61446,2,2847,6790
+October,Sikkim,Tsomgo Lake,59213,4,3327,5980
+October,Tamil Nadu,Ooty,47768,3,3332,5147
+October,Tamil Nadu,Kodaikanal,55902,2,2578,6769
+October,Tamil Nadu,Chennai,21265,3,3489,4472
+October,Telangana,Hyderabad,52195,5,3214,4588
+October,Telangana,Warangal,31555,3,2835,6327
+October,Telangana,Nagarjuna Sagar,33329,4,3089,5392
+October,Tripura,Agartala,66179,3,2840,6803
+October,Tripura,Unakoti,47184,5,2788,5088
+October,Tripura,Neermahal,20844,5,3196,6230
+October,Uttar Pradesh,Agra,65572,6,3825,4876
+October,Uttar Pradesh,Varanasi,15995,3,2948,5176
+October,Uttar Pradesh,Lucknow,51894,4,3250,4288
+October,Uttarakhand,Nainital,58528,2,3766,4529
+October,Uttarakhand,Mussoorie,22420,2,2666,5030
+October,Uttarakhand,Rishikesh,33599,5,3793,6020
+October,West Bengal,Kolkata,53752,4,3509,4531
+October,West Bengal,Darjeeling,39147,3,3785,4019
+October,West Bengal,Sundarbans,17770,5,3341,6318
+October,Jammu & Kashmir,Srinagar,32452,3,3530,4369
+October,Jammu & Kashmir,Gulmarg,58968,3,3699,5285
+October,Jammu & Kashmir,Pahalgam,29330,4,3968,4801
+November,Andhra Pradesh,Tirupati,64324,2,3101,6966
+November,Andhra Pradesh,Visakhapatnam Beach,55067,2,3797,6042
+November,Andhra Pradesh,Araku Valley,44506,4,3828,5186
+November,Arunachal Pradesh,Tawang,25688,4,3324,4503
+November,Arunachal Pradesh,Ziro Valley,30334,5,2735,5488
+November,Arunachal Pradesh,Itanagar,57034,2,2944,5463
+November,Assam,Kaziranga,56027,6,2518,6066
+November,Assam,Guwahati,24446,6,3996,5380
+November,Assam,Majuli,45939,5,3677,6919
+November,Bihar,Bodh Gaya,38625,5,2849,4791
+November,Bihar,Patna,61204,6,2812,4832
+November,Bihar,Nalanda,34705,4,3331,4678
+November,Chhattisgarh,Chitrakote Falls,34713,6,2581,6449
+November,Chhattisgarh,Raipur,60527,2,3143,5910
+November,Chhattisgarh,Barnawapara Sanctuary,38066,3,2552,5157
+November,Goa,Baga Beach,69701,5,2991,5777
+November,Goa,Calangute,39950,2,3468,6065
+November,Goa,Fort Aguada,48734,6,3897,6376
+November,Gujarat,Gir National Park,68645,4,3808,5629
+November,Gujarat,Ahmedabad,49627,3,3192,4693
+November,Gujarat,Dwarka,51370,4,3109,6348
+November,Haryana,Kurukshetra,27927,4,2819,4635
+November,Haryana,Panipat,52260,2,3821,6131
+November,Haryana,Sultanpur Bird Sanctuary,28383,4,3604,5956
+November,Himachal Pradesh,Manali,40089,4,3488,6695
+November,Himachal Pradesh,Shimla,40580,6,3604,5869
+November,Himachal Pradesh,Kullu,65541,4,3295,4386
+November,Jharkhand,Ranchi,17221,4,3982,5707
+November,Jharkhand,Deoghar,65922,2,3238,5635
+November,Jharkhand,Betla National Park,51121,2,2812,6049
+November,Karnataka,Coorg,60392,2,3546,5230
+November,Karnataka,Mysuru,66109,6,2699,4450
+November,Karnataka,Bengaluru,49257,6,2550,4202
+November,Kerala,Munnar,26271,6,3086,4212
+November,Kerala,Alleppey,47237,5,2779,4229
+November,Kerala,Kochi,23753,2,2720,4946
+November,Madhya Pradesh,Khajuraho,25765,2,3596,4892
+November,Madhya Pradesh,Bhopal,55493,3,3240,6838
+November,Madhya Pradesh,Bandhavgarh,66360,6,3646,4503
+November,Maharashtra,Mumbai,52749,3,3981,4900
+November,Maharashtra,Lonavala,49032,6,2727,4643
+November,Maharashtra,Mahabaleshwar,26618,5,3067,4950
+November,Manipur,Imphal,37365,5,3440,5797
+November,Manipur,Loktak Lake,30895,4,2798,5068
+November,Manipur,Kangla Fort,38061,2,3058,6300
+November,Meghalaya,Shillong,33012,2,2588,5031
+November,Meghalaya,Cherrapunji,16449,5,3982,5510
+November,Meghalaya,Mawlynnong,37520,5,3825,4498
+November,Mizoram,Aizawl,68745,5,3148,6308
+November,Mizoram,Lunglei,50412,5,2885,6937
+November,Mizoram,Champhai,60488,6,3779,6537
+November,Nagaland,Kohima,57675,4,3616,4944
+November,Nagaland,Mon,54522,5,3190,5980
+November,Nagaland,Dzukou Valley,60974,4,2913,4350
+November,Odisha,Puri,35071,3,3787,5366
+November,Odisha,Konark,59355,6,3438,5286
+November,Odisha,Bhubaneswar,34395,6,3234,6834
+November,Punjab,Amritsar,15639,2,3965,5899
+November,Punjab,Ludhiana,18917,5,3178,4947
+November,Punjab,Chandigarh,51031,2,3372,6928
+November,Rajasthan,Jaipur,68147,2,3835,5352
+November,Rajasthan,Udaipur,43528,2,3308,5566
+November,Rajasthan,Jaisalmer,29851,2,2951,6846
+November,Sikkim,Gangtok,65228,6,3297,6138
+November,Sikkim,Pelling,31676,3,3315,5611
+November,Sikkim,Tsomgo Lake,41542,3,3125,6448
+November,Tamil Nadu,Ooty,29502,4,3802,5671
+November,Tamil Nadu,Kodaikanal,56475,5,2690,6355
+November,Tamil Nadu,Chennai,15860,5,3568,4475
+November,Telangana,Hyderabad,53138,3,3261,6135
+November,Telangana,Warangal,17333,4,3309,6073
+November,Telangana,Nagarjuna Sagar,69398,5,3455,6025
+November,Tripura,Agartala,34893,4,3449,6819
+November,Tripura,Unakoti,15703,2,2781,6791
+November,Tripura,Neermahal,37612,4,2873,6321
+November,Uttar Pradesh,Agra,31369,6,3421,5018
+November,Uttar Pradesh,Varanasi,60603,4,3720,4413
+November,Uttar Pradesh,Lucknow,21965,3,3426,5570
+November,Uttarakhand,Nainital,64442,4,3687,5280
+November,Uttarakhand,Mussoorie,20049,6,3941,5957
+November,Uttarakhand,Rishikesh,45305,4,3341,6697
+November,West Bengal,Kolkata,30966,6,3708,6283
+November,West Bengal,Darjeeling,34831,5,3303,6055
+November,West Bengal,Sundarbans,19542,4,2507,4644
+November,Jammu & Kashmir,Srinagar,56011,6,3904,5036
+November,Jammu & Kashmir,Gulmarg,24371,3,3656,5980
+November,Jammu & Kashmir,Pahalgam,34320,3,3555,6184
+December,Andhra Pradesh,Tirupati,40548,3,3277,4956
+December,Andhra Pradesh,Visakhapatnam Beach,34522,3,3898,4103
+December,Andhra Pradesh,Araku Valley,27027,2,3482,6040
+December,Arunachal Pradesh,Tawang,46295,4,2534,6081
+December,Arunachal Pradesh,Ziro Valley,43176,4,3692,6352
+December,Arunachal Pradesh,Itanagar,25998,2,3988,4391
+December,Assam,Kaziranga,40273,2,3485,5782
+December,Assam,Guwahati,57688,5,3313,6739
+December,Assam,Majuli,31484,5,3848,6456
+December,Bihar,Bodh Gaya,58350,2,3849,5221
+December,Bihar,Patna,35590,4,2760,5812
+December,Bihar,Nalanda,52297,6,2627,5459
+December,Chhattisgarh,Chitrakote Falls,68472,5,2828,6118
+December,Chhattisgarh,Raipur,24255,2,2879,4843
+December,Chhattisgarh,Barnawapara Sanctuary,32620,4,3141,4467
+December,Goa,Baga Beach,18354,6,2628,6138
+December,Goa,Calangute,20655,3,3657,6102
+December,Goa,Fort Aguada,41648,3,3317,5334
+December,Gujarat,Gir National Park,43366,6,2890,5130
+December,Gujarat,Ahmedabad,69754,5,2638,6766
+December,Gujarat,Dwarka,48661,5,2879,5815
+December,Haryana,Kurukshetra,22261,4,3536,4038
+December,Haryana,Panipat,26920,5,2715,5420
+December,Haryana,Sultanpur Bird Sanctuary,62066,3,3552,5301
+December,Himachal Pradesh,Manali,29157,2,3095,5034
+December,Himachal Pradesh,Shimla,23765,6,2592,5940
+December,Himachal Pradesh,Kullu,56149,3,3244,4738
+December,Jharkhand,Ranchi,58911,4,3921,4812
+December,Jharkhand,Deoghar,44950,6,2651,4188
+December,Jharkhand,Betla National Park,67361,3,3992,6927
+December,Karnataka,Coorg,50767,3,2553,4315
+December,Karnataka,Mysuru,49590,4,3305,6966
+December,Karnataka,Bengaluru,51659,5,3836,4271
+December,Kerala,Munnar,32975,2,2689,6065
+December,Kerala,Alleppey,15300,3,3872,5036
+December,Kerala,Kochi,63594,6,2725,6354
+December,Madhya Pradesh,Khajuraho,16510,2,2839,6424
+December,Madhya Pradesh,Bhopal,54051,2,2751,6085
+December,Madhya Pradesh,Bandhavgarh,41389,6,3046,5142
+December,Maharashtra,Mumbai,44476,4,2931,5167
+December,Maharashtra,Lonavala,64553,2,2963,4132
+December,Maharashtra,Mahabaleshwar,34558,5,2978,5096
+December,Manipur,Imphal,40669,4,3122,6420
+December,Manipur,Loktak Lake,22973,4,3459,5971
+December,Manipur,Kangla Fort,31132,3,3939,5323
+December,Meghalaya,Shillong,50331,3,3464,6298
+December,Meghalaya,Cherrapunji,41986,3,3134,5051
+December,Meghalaya,Mawlynnong,68487,2,2568,6271
+December,Mizoram,Aizawl,24621,4,3765,6708
+December,Mizoram,Lunglei,38306,6,2966,6696
+December,Mizoram,Champhai,68492,2,3222,4570
+December,Nagaland,Kohima,39166,6,3786,5217
+December,Nagaland,Mon,25401,4,3872,6003
+December,Nagaland,Dzukou Valley,35256,2,2875,6675
+December,Odisha,Puri,31915,6,3693,5978
+December,Odisha,Konark,41923,4,2813,6358
+December,Odisha,Bhubaneswar,29893,2,3870,5701
+December,Punjab,Amritsar,50990,5,3407,5879
+December,Punjab,Ludhiana,26663,6,3554,4106
+December,Punjab,Chandigarh,31201,3,3037,4177
+December,Rajasthan,Jaipur,42052,6,3694,5407
+December,Rajasthan,Udaipur,58004,2,2948,6177
+December,Rajasthan,Jaisalmer,43033,6,3014,5247
+December,Sikkim,Gangtok,49467,3,2663,6904
+December,Sikkim,Pelling,33023,3,3253,4154
+December,Sikkim,Tsomgo Lake,69799,2,2711,5263
+December,Tamil Nadu,Ooty,27572,6,2943,6424
+December,Tamil Nadu,Kodaikanal,15090,4,3955,6971
+December,Tamil Nadu,Chennai,68622,2,3123,5276
+December,Telangana,Hyderabad,21186,4,3513,4676
+December,Telangana,Warangal,59021,3,2763,5608
+December,Telangana,Nagarjuna Sagar,18382,5,3891,6084
+December,Tripura,Agartala,24965,2,3517,4742
+December,Tripura,Unakoti,60715,2,2535,6277
+December,Tripura,Neermahal,43208,6,3653,6727
+December,Uttar Pradesh,Agra,22680,3,3642,6670
+December,Uttar Pradesh,Varanasi,44360,6,3578,6335
+December,Uttar Pradesh,Lucknow,18038,2,3551,5914
+December,Uttarakhand,Nainital,65280,4,3579,4324
+December,Uttarakhand,Mussoorie,31189,5,2500,4774
+December,Uttarakhand,Rishikesh,51074,3,2725,5198
+December,West Bengal,Kolkata,48740,4,3727,6323
+December,West Bengal,Darjeeling,67116,5,3163,5494
+December,West Bengal,Sundarbans,27836,6,3638,4141
+December,Jammu & Kashmir,Srinagar,48939,3,2656,6523
+December,Jammu & Kashmir,Gulmarg,42006,6,3044,6926
+December,Jammu & Kashmir,Pahalgam,65729,5,3896,4205
