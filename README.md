@@ -210,3 +210,4 @@ The app will open automatically in your default browser (usually at):
 
 http://localhost:8501
 
+Developed By:- Riddhie Sengar
