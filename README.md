@@ -19,6 +19,7 @@ To analyze seasonal tourism data across Indian states and assist users in:
 🧍‍♀️ User Login
 
 Simple login form using name and email.
+<img width="1920" height="985" alt="Screenshot (171)" src="https://github.com/user-attachments/assets/1d98d129-dda1-4ed8-8922-2b3176e0f204" />
 
 User sessions are managed using st.session_state so user choices persist during navigation.
 
@@ -27,16 +28,21 @@ User sessions are managed using st.session_state so user choices persist during 
 User selects a month of travel (January–December).
 
 Based on the month, the app filters the dataset to show the top 5 most visited states.
+<img width="1920" height="984" alt="Screenshot (172)" src="https://github.com/user-attachments/assets/07810d59-9424-4a2d-b5a8-c76d17871a19" />
 
 🗺️ Top 5 States Visualization
 
 Displays the Top 5 States for the selected month.
 
 Generates interactive line charts showing monthly visitor trends across these states using Plotly.
+<img width="1338" height="626" alt="Screenshot (174)" src="https://github.com/user-attachments/assets/11d7667f-d1e6-4be1-8296-fe161d36273e" />
 
 🏖️ State & Place Selection
 
 After choosing a state from the top 5, users select a place within that state.
+<img width="1920" height="466" alt="Screenshot (175)" src="https://github.com/user-attachments/assets/8495ea83-fab6-457e-a2ad-10a228022d38" />
+
+<img width="1569" height="409" alt="Screenshot (176)" src="https://github.com/user-attachments/assets/af0f0e59-e5eb-4cc3-9f48-4972acad7ba8" />
 
 Provides detailed information for that place, such as:
 
@@ -51,10 +57,10 @@ Average stay duration
 📊 Graphical Analysis
 
 Visitor Distribution: Donut (Pie) chart of top 5 places in the selected state.
+<img width="1285" height="527" alt="Screenshot (177)" src="https://github.com/user-attachments/assets/2469605b-64a8-4662-b78e-9b1c346e15b8" />
 
 Exploration Chart: Alternate visualization (scatter plot) of cost vs. visitors to compare places within the same state.
-
-Monthly Trends Chart: Line graph comparing visitor trends across months for the top 5 states.
+<img width="1303" height="537" alt="Screenshot (178)" src="https://github.com/user-attachments/assets/644f77a8-6ef1-49a4-b23d-87f2261bafb7" />
 
 🌤️ Seasonal and Weather Insights
 
@@ -63,17 +69,20 @@ The model analyzes historical data to determine the best season and top months t
 Provides weather-specific travel tips (e.g., what to pack, when to visit, etc.).
 
 Suggests alternative destinations (cheaper or less crowded) based on similarity in features.
+<img width="1308" height="370" alt="Screenshot (179)" src="https://github.com/user-attachments/assets/f8f8248c-a184-4b87-8b79-31ed0aa8cd6a" />
 
 💰 Budget Estimator
 
 Calculates total trip cost using:
 
 Total = (AvgCostPerDay × Days × People) + (TravelCostPerPerson × People)
+<img width="1423" height="424" alt="Screenshot (180)" src="https://github.com/user-attachments/assets/c279106c-4d42-45a0-a6fe-d325f98d8693" />
 
 
 Displays a detailed cost breakdown for easy understanding.
 
 📄 Downloadable Trip Summary
+<img width="648" height="422" alt="Screenshot (183)" src="https://github.com/user-attachments/assets/9e65d75d-c848-4996-b416-28d9272a2ef7" />
 
 Generates a downloadable CSV report summarizing:
 
@@ -211,3 +220,5 @@ The app will open automatically in your default browser (usually at):
 http://localhost:8501
 
 Developed By:- Riddhie Sengar
+
+
